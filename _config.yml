@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-
 # Main Page Setup
 
 title: Welcome # This is what shows up in the tab of the browser
@@ -29,7 +22,7 @@ resume-url: /assets/resume/resume.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: www.linkedin.com/in/ashovis 
+  linkedin: https://www.linkedin.com/in/ashovis/
   github: https://github.com/shleepio/ashovis24.github.io
   #stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   #medium:            # https://medium.com/@{your url slug} 
@@ -106,12 +99,12 @@ skills:
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
-  text: "#1a1c20"
-  border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
-  background: "#ffffff"
-  light_background: "#f3f5fb"
+  text: "#2c3333"
+  border: "#e0f2ef"
+  link: "#40b3a2"
+  highlight: "#2a9d8f"
+  background: "#f7fbfa"
+  light_background: "#f0f9f7"
 
 # A few examples. 
 basic theme:
