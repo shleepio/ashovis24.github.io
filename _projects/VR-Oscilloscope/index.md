@@ -1,18 +1,21 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: VR Oscilloscope Learning Module
+description:  Led development of project using Unity (C#) with the Meta Interaction SDK to design a learning module for the ET101 Introduction to Engineering Technology course at CSULB. Simulated realistic behavior of an oscilloscope, power supply, signal generator, multimeter, and breadboard with waveform visualization and measurement tools. 
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+- Unity 
+- C# Scripting
+- VR Interaction
+- Meta XR Interaction SDK
+- Signal Visualization UI
+- Instrumentation Measurement Logic
+- UI/UX Training Tools
+- Debugging System
+- Version Control
+- State Management
+- 3D Design
 
-main-image: /project2.jpg
+main-image: /projectmain.png
 ---
 
 ---
